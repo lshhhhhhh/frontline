@@ -1,5 +1,5 @@
 {
-  "version": "0.2.0",
-  "url": "https://github.com/lshhhhhhh/frontline/releases/download/v0.2.0/Frontline.zip",
-  "notes": "武器重平衡(散弹爆发/逐发上弹、半自动两枪)、敌人外观区分、携带医疗箱、机枪俯仰与壕沟溺亡修复、1-7 简化"
+  "version": "0.2.1",
+  "url": "https://github.com/lshhhhhhh/frontline/releases/download/v0.2.1/Frontline.zip",
+  "notes": "新关卡 1-8 横街口(冲锋兵专题)、手雷持握+弹道预判、队友名字+击杀榜、战备点大幅提高、建筑碰撞根治"
 }
